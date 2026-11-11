@@ -1,6 +1,7 @@
 # Folha de Pagamento
 
-Programa em Java que cadastra funcionários, calcula o salário de cada um e lista a folha de pagamento completa. Projeto feito para a faculdade.
+Programa em Java que cadastra funcionários, calcula o salário de cada um e lista a folha de pagamento completa. Projeto
+feito para a faculdade.
 
 ## O que faz
 
